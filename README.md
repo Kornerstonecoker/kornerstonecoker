@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Cloud+Engineer+in+the+Making;AWS+Certified+Practitioner;DevOps+%7C+Security+%7C+K8s+Enthusiast)](https://git.io/typing-svg)
-
+<!-- Typing SVG header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Aspiring+Cloud+Security+Engineer;MSc+Student+in+Cloud+Computing;Building+with+AWS,+Docker,+IaC)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Simon Coker!
 
-🚀 Cloud Enthusiast | 🛠️ DevOps Engineer | 🔐 Security-Minded
+🎓 MSc Student in Cloud Computing | ☁️ Aspiring Cloud Security Engineer | 🛠️ DevOps & SRE Enthusiast
 
 ---
 
-## 🔭 Projects
+## 🚀 Projects
 
 - [Crypto Allowance DApp](link) – Smart contract & cloud-backed ETH allowance app.
 - [Expense Tracker](link) – Django + AWS CI/CD pipeline with real-time expense analytics.
@@ -17,10 +17,16 @@
 
 ## ☁️ Cloud Stack
 
-- **Languages**: Python, TypeScript/JavaScript, Java, Solidity
-- **Cloud**: AWS (EC2, S3, DynamoDB, Lambda, SNS, EMR, SQS)
-- **DevOps**: Docker, CI/CD Pipelines, Terraform
-- **Tools**: VS Code, Cloud9, Pytest, Pylint, SonarCloud
+| Domain | Tools & Tech |
+|--------|--------------|
+| **Languages** | Python, JavaScript/TypeScript |
+| **Frontend** | Angular, React, Next.js |
+| **Cloud** | AWS (EC2, S3, Lambda, DynamoDB, EMR, SNS, SQS) |
+| **Infrastructure as Code** | Terraform, AWS CloudFormation |
+| **DevOps & Containerization** | Docker, GitHub Actions, CodePipeline |
+| **Testing & Analysis** | Pytest, Pylint, SonarCloud |
+
+> 🔗 Want details? Explore: [My Stack Breakdown](#stack-breakdown)
 
 ---
 
@@ -32,14 +38,27 @@
 
 ## 📈 GitHub Stats
 
-![Simon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simoncoker&show_icons=true&theme=github_dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simoncoker&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoncoker&layout=compact&theme=github_dark)
+
+---
+
+## 📂 Stack Breakdown
+
+Click to explore each tech stack page:
+
+| Tech | Docs |
+|------|------|
+| [AWS](./cloud/aws.md) | EC2, S3, Lambda, DynamoDB, etc. |
+| [Python](./cloud/python.md) | Back-end, scripting, testing |
+| [JavaScript/TypeScript](./cloud/javascript.md) | Full-stack development |
+| [React / Angular / Next.js](./cloud/frontend.md) | Front-end frameworks |
+| [IaC](./cloud/iac.md) | Terraform, CloudFormation |
+| [Docker](./cloud/docker.md) | Containerization & CI/CD |
+| [Security](./cloud/security.md) | Cloud security concepts |
 
 ---
 
 ## ⚡ Fun Cloud Fact
 
 > The cloud is not just someone else's computer. It's a global distributed system... and I'm learning to master it.
-
----
