@@ -51,6 +51,6 @@ Click to explore each tech stack page:
 
 ---
 
-## ⚡ Fun Cloud Fact
+## 🐍 GitHub Contribution Snake
 
-> The cloud is not just someone else's computer. It's a global distributed system... and I'm learning to master it.
+![snake gif](https://raw.githubusercontent.com/kornerstonecoker/kornerstonecoker/output/github-contribution-grid-snake.svg)
