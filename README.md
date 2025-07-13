@@ -17,14 +17,6 @@
 | **DevOps & Containerization** | Docker, GitHub Actions, CodePipeline           |
 | **Testing & Analysis**        | Pytest, Pylint, SonarCloud                     |
 
----
-
-## 🌱 Currently Learning
-
-`Kubernetes` · `Cloud Security` · `Serverless Architectures` · `Failure Recovery in Cloud`
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kornerstonecoker&show_icons=true&theme=github_dark)
