@@ -17,8 +17,6 @@
 | **DevOps & Containerization** | Docker, GitHub Actions, CodePipeline           |
 | **Testing & Analysis**        | Pytest, Pylint, SonarCloud                     |
 
-> 🔗 Want details? Explore: [My Stack Breakdown](#stack-breakdown)
-
 ---
 
 ## 🌱 Currently Learning
@@ -33,24 +31,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kornerstonecoker&layout=compact&theme=github_dark)
 
----
-
-## 📂 Stack Breakdown
-
-Click to explore each tech stack page:
-
-| Tech                                             | Docs                            |
-| ------------------------------------------------ | ------------------------------- |
-| [AWS](./cloud/aws.md)                            | EC2, S3, Lambda, DynamoDB, etc. |
-| [Python](./cloud/python.md)                      | Back-end, scripting, testing    |
-| [JavaScript/TypeScript](./cloud/javascript.md)   | Full-stack development          |
-| [React / Angular / Next.js](./cloud/frontend.md) | Front-end frameworks            |
-| [IaC](./cloud/iac.md)                            | Terraform, CloudFormation       |
-| [Docker](./cloud/docker.md)                      | Containerization & CI/CD        |
-| [Security](./cloud/security.md)                  | Cloud security concepts         |
-
----
-
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/kornerstonecoker/kornerstonecoker/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kornerstonecoker/kornerstonecoker/blob/output/github-contribution-grid-snake.svg)
