@@ -1,30 +1,21 @@
 <!-- Typing SVG header -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Aspiring+Cloud+Security+Engineer;MSc+Student+in+Cloud+Computing;Building+with+AWS,+Docker,+IaC)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Simon Coker!
 
 🎓 MSc Student in Cloud Computing | ☁️ Aspiring Cloud Security Engineer | 🛠️ DevOps & SRE Enthusiast
 
----
-
-## 🚀 Projects
-
-- [Crypto Allowance DApp](link) – Smart contract & cloud-backed ETH allowance app.
-- [Expense Tracker](link) – Django + AWS CI/CD pipeline with real-time expense analytics.
-- [Sentiment Analysis on Amazon Reviews](link) – Scalable Spark project on AWS EMR.
-
----
-
 ## ☁️ Cloud Stack
 
-| Domain | Tools & Tech |
-|--------|--------------|
-| **Languages** | Python, JavaScript/TypeScript |
-| **Frontend** | Angular, React, Next.js |
-| **Cloud** | AWS (EC2, S3, Lambda, DynamoDB, EMR, SNS, SQS) |
-| **Infrastructure as Code** | Terraform, AWS CloudFormation |
-| **DevOps & Containerization** | Docker, GitHub Actions, CodePipeline |
-| **Testing & Analysis** | Pytest, Pylint, SonarCloud |
+| Domain                        | Tools & Tech                                   |
+| ----------------------------- | ---------------------------------------------- |
+| **Languages**                 | Python, JavaScript/TypeScript                  |
+| **Frontend**                  | Angular, React, Next.js                        |
+| **Cloud**                     | AWS (EC2, S3, Lambda, DynamoDB, EMR, SNS, SQS) |
+| **Infrastructure as Code**    | Terraform, AWS CloudFormation                  |
+| **DevOps & Containerization** | Docker, GitHub Actions, CodePipeline           |
+| **Testing & Analysis**        | Pytest, Pylint, SonarCloud                     |
 
 > 🔗 Want details? Explore: [My Stack Breakdown](#stack-breakdown)
 
@@ -47,15 +38,15 @@
 
 Click to explore each tech stack page:
 
-| Tech | Docs |
-|------|------|
-| [AWS](./cloud/aws.md) | EC2, S3, Lambda, DynamoDB, etc. |
-| [Python](./cloud/python.md) | Back-end, scripting, testing |
-| [JavaScript/TypeScript](./cloud/javascript.md) | Full-stack development |
-| [React / Angular / Next.js](./cloud/frontend.md) | Front-end frameworks |
-| [IaC](./cloud/iac.md) | Terraform, CloudFormation |
-| [Docker](./cloud/docker.md) | Containerization & CI/CD |
-| [Security](./cloud/security.md) | Cloud security concepts |
+| Tech                                             | Docs                            |
+| ------------------------------------------------ | ------------------------------- |
+| [AWS](./cloud/aws.md)                            | EC2, S3, Lambda, DynamoDB, etc. |
+| [Python](./cloud/python.md)                      | Back-end, scripting, testing    |
+| [JavaScript/TypeScript](./cloud/javascript.md)   | Full-stack development          |
+| [React / Angular / Next.js](./cloud/frontend.md) | Front-end frameworks            |
+| [IaC](./cloud/iac.md)                            | Terraform, CloudFormation       |
+| [Docker](./cloud/docker.md)                      | Containerization & CI/CD        |
+| [Security](./cloud/security.md)                  | Cloud security concepts         |
 
 ---
 
